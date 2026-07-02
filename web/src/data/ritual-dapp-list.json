@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "dapp_1",
+    "name": "Ritual Testnet Card",
+    "url": "https://ritual-onchain-id.vercel.app/",
+    "description": "Explore Ritual Testnet Card on the Ritual Testnet. Built by maharshi_17904.",
+    "creator": {
+      "name": "@maharshi_17904",
+      "inferred_creator_handle": "maharshi_17904",
+      "handle_verified": false,
+      "social_url": "https://x.com/maharshi_17904"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802",
+        "0x0818"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)",
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_2",
+    "name": "Ritual Address Analyzer",
+    "url": "https://ritual-stats-check.vercel.app/",
+    "description": "Explore Ritual Address Analyzer on the Ritual Testnet. Built by 0xtanoy.",
+    "creator": {
+      "name": "@0xtanoy",
+      "inferred_creator_handle": "0xtanoy",
+      "handle_verified": false,
+      "social_url": "https://x.com/0xtanoy"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_3",
+    "name": "Siggys Virtual Arcade",
+    "url": "https://siggy-arcade.vercel.app/",
+    "description": "Explore Siggys Virtual Arcade on the Ritual Testnet. Built by 0x0saragi.",
+    "creator": {
+      "name": "@0x0saragi",
+      "inferred_creator_handle": "0x0saragi",
+      "handle_verified": false,
+      "social_url": "https://x.com/0x0saragi"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_4",
+    "name": "Ritual Builder Proof",
+    "url": "https://ritual-builder-proof.pages.dev/",
+    "description": "Explore Ritual Builder Proof on the Ritual Testnet. Built by pushkin_ievgen.",
+    "creator": {
+      "name": "@pushkin_ievgen",
+      "inferred_creator_handle": "pushkin_ievgen",
+      "handle_verified": false,
+      "social_url": "https://x.com/pushkin_ievgen"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0009"
+      ],
+      "details": {
+        "0x0009": "Ed25519/DKMS Cryptography Precompile (Enables enclave-secured keys and zero-knowledge signatures)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_5",
+    "name": "Ritual Tamagotchi",
+    "url": "https://ritual-tamagotchi.vercel.app/",
+    "description": "Explore Ritual Tamagotchi on the Ritual Testnet. Built by mirage5815.",
+    "creator": {
+      "name": "@mirage5815",
+      "inferred_creator_handle": "mirage5815",
+      "handle_verified": false,
+      "social_url": "https://x.com/mirage5815"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_6",
+    "name": "Ritual Mission Console",
+    "url": "https://ritual-console.netlify.app/",
+    "description": "Explore Ritual Mission Console on the Ritual Testnet. Built by herbcase.",
+    "creator": {
+      "name": "@herbcase",
+      "inferred_creator_handle": "herbcase",
+      "handle_verified": false,
+      "social_url": "https://x.com/herbcase"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_7",
+    "name": "Jumping Siggy",
+    "url": "https://jumping-siggy-the-pussy.vercel.app/",
+    "description": "Explore Jumping Siggy on the Ritual Testnet. Built by randzkie05.",
+    "creator": {
+      "name": "@randzkie05",
+      "inferred_creator_handle": "randzkie05",
+      "handle_verified": false,
+      "social_url": "https://x.com/randzkie05"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": true,
+    "active": false
+  },
+  {
+    "id": "dapp_8",
+    "name": "Predection Market",
+    "url": "https://ramavenom.github.io/rekt-or-rich/",
+    "description": "Explore Predection Market on the Ritual Testnet. Built by ramaxwhale.",
+    "creator": {
+      "name": "@ramaxwhale",
+      "inferred_creator_handle": "ramaxwhale",
+      "handle_verified": false,
+      "social_url": "https://x.com/ramaxwhale"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_9",
+    "name": "Ritual Micro Tap",
+    "url": "https://ritual-micro-tap.vercel.app/",
+    "description": "Explore Ritual Micro Tap on the Ritual Testnet. Built by lubudebotton.",
+    "creator": {
+      "name": "@lubudebotton",
+      "inferred_creator_handle": "lubudebotton",
+      "handle_verified": false,
+      "social_url": "https://x.com/lubudebotton"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_10",
+    "name": "Ritual Encrypted Research",
+    "url": "https://research-vault-beta.vercel.app/",
+    "description": "Explore Ritual Encrypted Research on the Ritual Testnet. Built by cripson.",
+    "creator": {
+      "name": "@cripson",
+      "inferred_creator_handle": "cripson",
+      "handle_verified": false,
+      "social_url": "https://x.com/cripson"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0009"
+      ],
+      "details": {
+        "0x0009": "Ed25519/DKMS Cryptography Precompile (Enables enclave-secured keys and zero-knowledge signatures)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_11",
+    "name": "Ritual Oracle",
+    "url": "https://ritual-oracle-two.vercel.app/",
+    "description": "Explore Ritual Oracle on the Ritual Testnet. Built by tutubear.",
+    "creator": {
+      "name": "@tutubear",
+      "inferred_creator_handle": "tutubear",
+      "handle_verified": false,
+      "social_url": "https://x.com/tutubear"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0801"
+      ],
+      "details": {
+        "0x0801": "HTTP Precompile (Fetches external web API data directly to smart contracts)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_12",
+    "name": "Ritual Arena",
+    "url": "https://ritualarena1.vercel.app/",
+    "description": "Explore Ritual Arena on the Ritual Testnet. Built by jonikeciltomuch.",
+    "creator": {
+      "name": "@jonikeciltomuch",
+      "inferred_creator_handle": "jonikeciltomuch",
+      "handle_verified": false,
+      "social_url": "https://x.com/jonikeciltomuch"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_13",
+    "name": "diabetes diary TG BOT",
+    "url": "https://t.me/DiaRoutine_Bot",
+    "description": "Explore diabetes diary TG BOT on the Ritual Testnet. Built by meison7554.",
+    "creator": {
+      "name": "@meison7554",
+      "inferred_creator_handle": "meison7554",
+      "handle_verified": false,
+      "social_url": "https://x.com/meison7554"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0820",
+        "Scheduler"
+      ],
+      "details": {
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)",
+        "Scheduler": "Autonomous Scheduler (Trigger smart contract executions automatically without external keepers)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_14",
+    "name": "Ritual Discord Tracker NFT MInt",
+    "url": "https://www.ritcord.xyz/",
+    "description": "Explore Ritual Discord Tracker NFT MInt on the Ritual Testnet. Built by marksocrates.",
+    "creator": {
+      "name": "@marksocrates",
+      "inferred_creator_handle": "marksocrates",
+      "handle_verified": false,
+      "social_url": "https://x.com/marksocrates"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0801"
+      ],
+      "details": {
+        "0x0801": "HTTP Precompile (Fetches external web API data directly to smart contracts)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_15",
+    "name": "Siggy Ritualizer",
+    "url": "https://siggy-ritualizer.vercel.app/",
+    "description": "Explore Siggy Ritualizer on the Ritual Testnet. Built by dabid3258.",
+    "creator": {
+      "name": "@dabid3258",
+      "inferred_creator_handle": "dabid3258",
+      "handle_verified": false,
+      "social_url": "https://x.com/dabid3258"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_16",
+    "name": "Ritual Coin Flip",
+    "url": "https://ritual-flip.vercel.app/",
+    "description": "Explore Ritual Coin Flip on the Ritual Testnet. Built by nheoweb3.",
+    "creator": {
+      "name": "@nheoweb3",
+      "inferred_creator_handle": "nheoweb3",
+      "handle_verified": false,
+      "social_url": "https://x.com/nheoweb3"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_17",
+    "name": "Ritual Identity Generator",
+    "url": "https://ritual-card-pfp-generator.vercel.app/",
+    "description": "Explore Ritual Identity Generator on the Ritual Testnet. Built by emir_ethh.",
+    "creator": {
+      "name": "@emir_ethh",
+      "inferred_creator_handle": "emir_ethh",
+      "handle_verified": false,
+      "social_url": "https://x.com/emir_ethh"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818",
+        "0x0009"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)",
+        "0x0009": "Ed25519/DKMS Cryptography Precompile (Enables enclave-secured keys and zero-knowledge signatures)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_18",
+    "name": "Ritual Staking",
+    "url": "https://ritual-lst.vercel.app/",
+    "description": "Explore Ritual Staking on the Ritual Testnet. Built by yourinuu.",
+    "creator": {
+      "name": "@yourinuu",
+      "inferred_creator_handle": "yourinuu",
+      "handle_verified": false,
+      "social_url": "https://x.com/yourinuu"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_19",
+    "name": "Siggy Streaks",
+    "url": "https://siggystreaks.vercel.app/en",
+    "description": "Explore Siggy Streaks on the Ritual Testnet. Built by Thomas.",
+    "creator": {
+      "name": "@Thomas",
+      "inferred_creator_handle": "Thomas",
+      "handle_verified": false,
+      "social_url": "https://x.com/Thomas"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_20",
+    "name": "Guess The Ritualists",
+    "url": "https://guess-the-ritualist.vercel.app/",
+    "description": "Explore Guess The Ritualists on the Ritual Testnet. Built by oluwasegun1334.",
+    "creator": {
+      "name": "@oluwasegun1334",
+      "inferred_creator_handle": "oluwasegun1334",
+      "handle_verified": false,
+      "social_url": "https://x.com/oluwasegun1334"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_21",
+    "name": "Ritual Paws",
+    "url": "https://ritual-paws.vercel.app/",
+    "description": "Explore Ritual Paws on the Ritual Testnet. Built by _neitenoz26.",
+    "creator": {
+      "name": "@_neitenoz26",
+      "inferred_creator_handle": "_neitenoz26",
+      "handle_verified": false,
+      "social_url": "https://x.com/_neitenoz26"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_22",
+    "name": "RitualPad",
+    "url": "https://ritual-rocketpad.vercel.app",
+    "description": "Explore RitualPad on the Ritual Testnet. Built by noyon_12.",
+    "creator": {
+      "name": "@noyon_12",
+      "inferred_creator_handle": "noyon_12",
+      "handle_verified": false,
+      "social_url": "https://x.com/noyon_12"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_23",
+    "name": "3D CASE SEALER",
+    "url": "https://ritual-mystery-box.vercel.app",
+    "description": "Explore 3D CASE SEALER on the Ritual Testnet. Built by sarimbby.",
+    "creator": {
+      "name": "@sarimbby",
+      "inferred_creator_handle": "sarimbby",
+      "handle_verified": false,
+      "social_url": "https://x.com/sarimbby"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_24",
+    "name": "Sky Predict",
+    "url": "https://skypredict.app/",
+    "description": "Explore Sky Predict on the Ritual Testnet. Built by pemburuhadiah_.",
+    "creator": {
+      "name": "@pemburuhadiah_",
+      "inferred_creator_handle": "pemburuhadiah_",
+      "handle_verified": false,
+      "social_url": "https://x.com/pemburuhadiah_"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_25",
+    "name": "Ritual Play Spin",
+    "url": "https://ritualplayyy.netlify.app/",
+    "description": "Explore Ritual Play Spin on the Ritual Testnet. Built by siuuuu7707.",
+    "creator": {
+      "name": "@siuuuu7707",
+      "inferred_creator_handle": "siuuuu7707",
+      "handle_verified": false,
+      "social_url": "https://x.com/siuuuu7707"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_26",
+    "name": "Siggy Miner",
+    "url": "https://siggy-miner-ritual.vercel.app/",
+    "description": "Explore Siggy Miner on the Ritual Testnet. Built by _._mingyu_._.",
+    "creator": {
+      "name": "@_._mingyu_._",
+      "inferred_creator_handle": "_._mingyu_._",
+      "handle_verified": false,
+      "social_url": "https://x.com/_._mingyu_._"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_27",
+    "name": "Ritual Fate Engine",
+    "url": "https://ritual-fate-engine.netlify.app/",
+    "description": "Explore Ritual Fate Engine on the Ritual Testnet. Built by Murat.",
+    "creator": {
+      "name": "@Murat",
+      "inferred_creator_handle": "Murat",
+      "handle_verified": false,
+      "social_url": "https://x.com/Murat"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_28",
+    "name": "Risa Finance",
+    "url": "https://risa-finance.netlify.app/",
+    "description": "Explore Risa Finance on the Ritual Testnet. Built by septian227.",
+    "creator": {
+      "name": "@septian227",
+      "inferred_creator_handle": "septian227",
+      "handle_verified": false,
+      "social_url": "https://x.com/septian227"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_29",
+    "name": "Ritual Learn",
+    "url": "https://ritual-learn.vercel.app/",
+    "description": "Explore Ritual Learn on the Ritual Testnet. Built by dotmantissa.",
+    "creator": {
+      "name": "@dotmantissa",
+      "inferred_creator_handle": "dotmantissa",
+      "handle_verified": false,
+      "social_url": "https://x.com/dotmantissa"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_30",
+    "name": "Ritual Flip Game",
+    "url": "https://ritual-flip-card-game.fun/",
+    "description": "Explore Ritual Flip Game on the Ritual Testnet. Built by Hanna_tran.",
+    "creator": {
+      "name": "@Hanna_tran",
+      "inferred_creator_handle": "Hanna_tran",
+      "handle_verified": false,
+      "social_url": "https://x.com/Hanna_tran"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_31",
+    "name": "Ritual Survival",
+    "url": "https://ritualist-game.vercel.app/",
+    "description": "Explore Ritual Survival on the Ritual Testnet. Built by kaffee8888.",
+    "creator": {
+      "name": "@kaffee8888",
+      "inferred_creator_handle": "kaffee8888",
+      "handle_verified": false,
+      "social_url": "https://x.com/kaffee8888"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_32",
+    "name": "Ritual Tip Feed",
+    "url": "https://ritual-tip-feed-iwkg.vercel.app/",
+    "description": "Explore Ritual Tip Feed on the Ritual Testnet. Built by prv04_.",
+    "creator": {
+      "name": "@prv04_",
+      "inferred_creator_handle": "prv04_",
+      "handle_verified": false,
+      "social_url": "https://x.com/prv04_"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0801"
+      ],
+      "details": {
+        "0x0801": "HTTP Precompile (Fetches external web API data directly to smart contracts)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_33",
+    "name": "The Cauldron",
+    "url": "https://the-cauldron-iota.vercel.app/",
+    "description": "Explore The Cauldron on the Ritual Testnet. Built by mmorgs.",
+    "creator": {
+      "name": "@mmorgs",
+      "inferred_creator_handle": "mmorgs",
+      "handle_verified": false,
+      "social_url": "https://x.com/mmorgs"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_34",
+    "name": "Ritual App Revoke",
+    "url": "https://ritualapp-revoke.vercel.app/",
+    "description": "Explore Ritual App Revoke on the Ritual Testnet. Built by nostalgiagila.",
+    "creator": {
+      "name": "@nostalgiagila",
+      "inferred_creator_handle": "nostalgiagila",
+      "handle_verified": false,
+      "social_url": "https://x.com/nostalgiagila"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_35",
+    "name": "Ritual Time Capsule",
+    "url": "https://ritual-time-capsule.vercel.app/",
+    "description": "Explore Ritual Time Capsule on the Ritual Testnet. Built by miretu.",
+    "creator": {
+      "name": "@miretu",
+      "inferred_creator_handle": "miretu",
+      "handle_verified": false,
+      "social_url": "https://x.com/miretu"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "Scheduler"
+      ],
+      "details": {
+        "Scheduler": "Autonomous Scheduler (Trigger smart contract executions automatically without external keepers)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_36",
+    "name": "Ritual Banner NFT",
+    "url": "https://nft-ritual-banner-x.vercel.app/",
+    "description": "Explore Ritual Banner NFT on the Ritual Testnet. Built by rizannn.",
+    "creator": {
+      "name": "@rizannn",
+      "inferred_creator_handle": "rizannn",
+      "handle_verified": false,
+      "social_url": "https://x.com/rizannn"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_37",
+    "name": "Ritual Fortune",
+    "url": "https://ritualfortunes-juqy.vercel.app/",
+    "description": "Explore Ritual Fortune on the Ritual Testnet. Built by Kej.",
+    "creator": {
+      "name": "@Kej",
+      "inferred_creator_handle": "Kej",
+      "handle_verified": false,
+      "social_url": "https://x.com/Kej"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_38",
+    "name": "Siggy Run",
+    "url": "https://siggyrunv2.vercel.app/",
+    "description": "Explore Siggy Run on the Ritual Testnet. Built by aliorbz.",
+    "creator": {
+      "name": "@aliorbz",
+      "inferred_creator_handle": "aliorbz",
+      "handle_verified": false,
+      "social_url": "https://x.com/aliorbz"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_39",
+    "name": "Stealth Drop",
+    "url": "https://stealth-drop-omega.vercel.app/",
+    "description": "Explore Stealth Drop on the Ritual Testnet. Built by versus777.",
+    "creator": {
+      "name": "@versus777",
+      "inferred_creator_handle": "versus777",
+      "handle_verified": false,
+      "social_url": "https://x.com/versus777"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0009"
+      ],
+      "details": {
+        "0x0009": "Ed25519/DKMS Cryptography Precompile (Enables enclave-secured keys and zero-knowledge signatures)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_40",
+    "name": "Ritual Friend Zone",
+    "url": "https://ritual-friend.vercel.app/",
+    "description": "Explore Ritual Friend Zone on the Ritual Testnet. Built by Willox.",
+    "creator": {
+      "name": "@Willox",
+      "inferred_creator_handle": "Willox",
+      "handle_verified": false,
+      "social_url": "https://x.com/Willox"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_41",
+    "name": "Ritual Teachr Hub",
+    "url": "https://ritual-teacher-hjb3.vercel.app/",
+    "description": "Explore Ritual Teachr Hub on the Ritual Testnet. Built by kitoccrypto.",
+    "creator": {
+      "name": "@kitoccrypto",
+      "inferred_creator_handle": "kitoccrypto",
+      "handle_verified": false,
+      "social_url": "https://x.com/kitoccrypto"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_42",
+    "name": "Blockie NFT Dapp",
+    "url": "https://ritual-testnet-six.vercel.app/",
+    "description": "Explore Blockie NFT Dapp on the Ritual Testnet. Built by blockiexyz.",
+    "creator": {
+      "name": "@blockiexyz",
+      "inferred_creator_handle": "blockiexyz",
+      "handle_verified": false,
+      "social_url": "https://x.com/blockiexyz"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_43",
+    "name": "Ritual Agent Terminal",
+    "url": "https://ritual-agent-feeds.vercel.app/",
+    "description": "Explore Ritual Agent Terminal on the Ritual Testnet. Built by NXR.",
+    "creator": {
+      "name": "@NXR",
+      "inferred_creator_handle": "NXR",
+      "handle_verified": false,
+      "social_url": "https://x.com/NXR"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0801",
+        "0x0820"
+      ],
+      "details": {
+        "0x0801": "HTTP Precompile (Fetches external web API data directly to smart contracts)",
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_44",
+    "name": "Ritual Deploy Contract",
+    "url": "https://ritual-dapp.vercel.app/",
+    "description": "Explore Ritual Deploy Contract on the Ritual Testnet. Built by babangaip.",
+    "creator": {
+      "name": "@babangaip",
+      "inferred_creator_handle": "babangaip",
+      "handle_verified": false,
+      "social_url": "https://x.com/babangaip"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_45",
+    "name": "Ritual Play Ground",
+    "url": "https://sigil-ritual.auranode.xyz/",
+    "description": "Explore Ritual Play Ground on the Ritual Testnet. Built by hidayahhtaufik.",
+    "creator": {
+      "name": "@hidayahhtaufik",
+      "inferred_creator_handle": "hidayahhtaufik",
+      "handle_verified": false,
+      "social_url": "https://x.com/hidayahhtaufik"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_46",
+    "name": "Ritua signature Cards",
+    "url": "https://ritual-signature-cards.vercel.app/",
+    "description": "Explore Ritua signature Cards on the Ritual Testnet. Built by antgeo13.",
+    "creator": {
+      "name": "@antgeo13",
+      "inferred_creator_handle": "antgeo13",
+      "handle_verified": false,
+      "social_url": "https://x.com/antgeo13"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818",
+        "0x0009"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)",
+        "0x0009": "Ed25519/DKMS Cryptography Precompile (Enables enclave-secured keys and zero-knowledge signatures)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_47",
+    "name": "Ritual inferstake",
+    "url": "https://inferstake.vercel.app",
+    "description": "Explore Ritual inferstake on the Ritual Testnet. Built by tanvirmiqbal.",
+    "creator": {
+      "name": "@tanvirmiqbal",
+      "inferred_creator_handle": "tanvirmiqbal",
+      "handle_verified": false,
+      "social_url": "https://x.com/tanvirmiqbal"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_48",
+    "name": "Ritual Scratch",
+    "url": "https://ritual-scratch.vercel.app/",
+    "description": "Explore Ritual Scratch on the Ritual Testnet. Built by abmdrop.",
+    "creator": {
+      "name": "@abmdrop",
+      "inferred_creator_handle": "abmdrop",
+      "handle_verified": false,
+      "social_url": "https://x.com/abmdrop"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_49",
+    "name": "Ritual Relic hunt",
+    "url": "https://ritual-relic-hunt.vercel.app/",
+    "description": "Explore Ritual Relic hunt on the Ritual Testnet. Built by flaha.",
+    "creator": {
+      "name": "@flaha",
+      "inferred_creator_handle": "flaha",
+      "handle_verified": false,
+      "social_url": "https://x.com/flaha"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_50",
+    "name": "Ritual Quiz",
+    "url": "https://ritual-speed-quiz.vercel.app/",
+    "description": "Explore Ritual Quiz on the Ritual Testnet. Built by i_xer0.",
+    "creator": {
+      "name": "@i_xer0",
+      "inferred_creator_handle": "i_xer0",
+      "handle_verified": false,
+      "social_url": "https://x.com/i_xer0"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_51",
+    "name": "Ritual Claw Carnival",
+    "url": "https://ritual-carnival.vercel.app/",
+    "description": "Explore Ritual Claw Carnival on the Ritual Testnet. Built by tanjiiiiiiii.",
+    "creator": {
+      "name": "@tanjiiiiiiii",
+      "inferred_creator_handle": "tanjiiiiiiii",
+      "handle_verified": false,
+      "social_url": "https://x.com/tanjiiiiiiii"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_52",
+    "name": "Ritual Restor Puzzle",
+    "url": "https://ritual-pixel-quest.vercel.app/",
+    "description": "Explore Ritual Restor Puzzle on the Ritual Testnet. Built by kenavee.",
+    "creator": {
+      "name": "@kenavee",
+      "inferred_creator_handle": "kenavee",
+      "handle_verified": false,
+      "social_url": "https://x.com/kenavee"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_53",
+    "name": "Ritual Collection",
+    "url": "https://ritual-collection.vercel.app/",
+    "description": "Explore Ritual Collection on the Ritual Testnet. Built by tripppin666.",
+    "creator": {
+      "name": "@tripppin666",
+      "inferred_creator_handle": "tripppin666",
+      "handle_verified": false,
+      "social_url": "https://x.com/tripppin666"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_54",
+    "name": "Ritual's Dead Man Switch",
+    "url": "https://deadman-switch.netlify.app/",
+    "description": "Explore Ritual's Dead Man Switch on the Ritual Testnet. Built by Rohit.",
+    "creator": {
+      "name": "@Rohit",
+      "inferred_creator_handle": "Rohit",
+      "handle_verified": false,
+      "social_url": "https://x.com/Rohit"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_55",
+    "name": "Ritual Dunce",
+    "url": "https://cranky-dunces-unlocks-ritualmainnet.vercel.app/",
+    "description": "Explore Ritual Dunce on the Ritual Testnet. Built by Cranky.",
+    "creator": {
+      "name": "@Cranky",
+      "inferred_creator_handle": "Cranky",
+      "handle_verified": false,
+      "social_url": "https://x.com/Cranky"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_56",
+    "name": "Ritual Contract Deploy",
+    "url": "https://ritual-create-contract.vercel.app",
+    "description": "Explore Ritual Contract Deploy on the Ritual Testnet. Built by Joyesh.",
+    "creator": {
+      "name": "@Joyesh",
+      "inferred_creator_handle": "Joyesh",
+      "handle_verified": false,
+      "social_url": "https://x.com/Joyesh"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_57",
+    "name": "Ritual Type",
+    "url": "https://ritualtypeedu.netlify.app/",
+    "description": "Explore Ritual Type on the Ritual Testnet. Built by beacon45.",
+    "creator": {
+      "name": "@beacon45",
+      "inferred_creator_handle": "beacon45",
+      "handle_verified": false,
+      "social_url": "https://x.com/beacon45"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_58",
+    "name": "Ritual Connection Identity",
+    "url": "https://ritualconnectionidentity.vercel.app/",
+    "description": "Explore Ritual Connection Identity on the Ritual Testnet. Built by saamzzzbro.",
+    "creator": {
+      "name": "@saamzzzbro",
+      "inferred_creator_handle": "saamzzzbro",
+      "handle_verified": false,
+      "social_url": "https://x.com/saamzzzbro"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0009"
+      ],
+      "details": {
+        "0x0009": "Ed25519/DKMS Cryptography Precompile (Enables enclave-secured keys and zero-knowledge signatures)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_59",
+    "name": "Ritual Discovery",
+    "url": "https://ritual-atlas.vercel.app/",
+    "description": "Explore Ritual Discovery on the Ritual Testnet. Built by cryptowood.",
+    "creator": {
+      "name": "@cryptowood",
+      "inferred_creator_handle": "cryptowood",
+      "handle_verified": false,
+      "social_url": "https://x.com/cryptowood"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_60",
+    "name": "Ritual PFP OnChain",
+    "url": "https://ritual-pfp-onchain.vercel.app/",
+    "description": "Explore Ritual PFP OnChain on the Ritual Testnet. Built by beeeear..",
+    "creator": {
+      "name": "@beeeear.",
+      "inferred_creator_handle": "beeeear.",
+      "handle_verified": false,
+      "social_url": "https://x.com/beeeear."
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802",
+        "0x0818"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)",
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_61",
+    "name": "Narrative Pulse",
+    "url": "https://ritual-narrative-pulse.vercel.app/",
+    "description": "Explore Narrative Pulse on the Ritual Testnet. Built by bullex0.",
+    "creator": {
+      "name": "@bullex0",
+      "inferred_creator_handle": "bullex0",
+      "handle_verified": false,
+      "social_url": "https://x.com/bullex0"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_62",
+    "name": "Prediction Market",
+    "url": "https://rittymarket.xyz/",
+    "description": "Explore Prediction Market on the Ritual Testnet. Built by frisco_fr.",
+    "creator": {
+      "name": "@frisco_fr",
+      "inferred_creator_handle": "frisco_fr",
+      "handle_verified": false,
+      "social_url": "https://x.com/frisco_fr"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_63",
+    "name": "Ritual Puzzle",
+    "url": "https://ritual-puzzles.vercel.app/",
+    "description": "Explore Ritual Puzzle on the Ritual Testnet. Built by ms.jaeee.",
+    "creator": {
+      "name": "@ms.jaeee",
+      "inferred_creator_handle": "ms.jaeee",
+      "handle_verified": false,
+      "social_url": "https://x.com/ms.jaeee"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_64",
+    "name": "Ritual Clicker",
+    "url": "https://ritual-clicker.vercel.app/",
+    "description": "Explore Ritual Clicker on the Ritual Testnet. Built by callmehannnn.",
+    "creator": {
+      "name": "@callmehannnn",
+      "inferred_creator_handle": "callmehannnn",
+      "handle_verified": false,
+      "social_url": "https://x.com/callmehannnn"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_65",
+    "name": "Ritual Guys",
+    "url": "https://ritual-guys.vercel.app/",
+    "description": "Explore Ritual Guys on the Ritual Testnet. Built by herrybrown09.",
+    "creator": {
+      "name": "@herrybrown09",
+      "inferred_creator_handle": "herrybrown09",
+      "handle_verified": false,
+      "social_url": "https://x.com/herrybrown09"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_66",
+    "name": "Siggy Surfers",
+    "url": "https://www.siggy.surf/",
+    "description": "Explore Siggy Surfers on the Ritual Testnet. Built by tutufly_yy.",
+    "creator": {
+      "name": "@tutufly_yy",
+      "inferred_creator_handle": "tutufly_yy",
+      "handle_verified": false,
+      "social_url": "https://x.com/tutufly_yy"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_67",
+    "name": "Ritual Passport",
+    "url": "https://myritualpassport.vercel.app/",
+    "description": "Explore Ritual Passport on the Ritual Testnet. Built by itsmeagoyyy.",
+    "creator": {
+      "name": "@itsmeagoyyy",
+      "inferred_creator_handle": "itsmeagoyyy",
+      "handle_verified": false,
+      "social_url": "https://x.com/itsmeagoyyy"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_68",
+    "name": "Ritual Build your mark",
+    "url": "https://ritual-network-bice.vercel.app/",
+    "description": "Explore Ritual Build your mark on the Ritual Testnet. Built by youngest_grandad_marvell.",
+    "creator": {
+      "name": "@youngest_grandad_marvell",
+      "inferred_creator_handle": "youngest_grandad_marvell",
+      "handle_verified": false,
+      "social_url": "https://x.com/youngest_grandad_marvell"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_69",
+    "name": "Ritual Tetris",
+    "url": "https://ritual-tetris.vercel.app",
+    "description": "Explore Ritual Tetris on the Ritual Testnet. Built by 0xeyesofetresia.",
+    "creator": {
+      "name": "@0xeyesofetresia",
+      "inferred_creator_handle": "0xeyesofetresia",
+      "handle_verified": false,
+      "social_url": "https://x.com/0xeyesofetresia"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_70",
+    "name": "Ritual PFP generator",
+    "url": "https://ritualpfp.xyz/",
+    "description": "Explore Ritual PFP generator on the Ritual Testnet. Built by dayzzzer.",
+    "creator": {
+      "name": "@dayzzzer",
+      "inferred_creator_handle": "dayzzzer",
+      "handle_verified": false,
+      "social_url": "https://x.com/dayzzzer"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_71",
+    "name": "Matheritual",
+    "url": "https://matheritual.vercel.app/",
+    "description": "Explore Matheritual on the Ritual Testnet. Built by philip3828.",
+    "creator": {
+      "name": "@philip3828",
+      "inferred_creator_handle": "philip3828",
+      "handle_verified": false,
+      "social_url": "https://x.com/philip3828"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_72",
+    "name": "The Courtoom",
+    "url": "https://the-courtroom.vercel.app/",
+    "description": "Explore The Courtoom on the Ritual Testnet. Built by snooowflake.",
+    "creator": {
+      "name": "@snooowflake",
+      "inferred_creator_handle": "snooowflake",
+      "handle_verified": false,
+      "social_url": "https://x.com/snooowflake"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_73",
+    "name": "Ritual Casino",
+    "url": "https://ritual-casino.vercel.app/",
+    "description": "Explore Ritual Casino on the Ritual Testnet. Built by befree0x.",
+    "creator": {
+      "name": "@befree0x",
+      "inferred_creator_handle": "befree0x",
+      "handle_verified": false,
+      "social_url": "https://x.com/befree0x"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_74",
+    "name": "Ritual Wall",
+    "url": "https://ritualwallinferencenet.netlify.app/",
+    "description": "Explore Ritual Wall on the Ritual Testnet. Built by seesac_.",
+    "creator": {
+      "name": "@seesac_",
+      "inferred_creator_handle": "seesac_",
+      "handle_verified": false,
+      "social_url": "https://x.com/seesac_"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_75",
+    "name": "Ritual Command Center",
+    "url": "https://ritual-wallet-dashboard.vercel.app/",
+    "description": "Explore Ritual Command Center on the Ritual Testnet. Built by 0xdenta.",
+    "creator": {
+      "name": "@0xdenta",
+      "inferred_creator_handle": "0xdenta",
+      "handle_verified": false,
+      "social_url": "https://x.com/0xdenta"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_76",
+    "name": "Enshrined",
+    "url": "https://enshrined-psi.vercel.app/",
+    "description": "Explore Enshrined on the Ritual Testnet. Built by starknight50x.",
+    "creator": {
+      "name": "@starknight50x",
+      "inferred_creator_handle": "starknight50x",
+      "handle_verified": false,
+      "social_url": "https://x.com/starknight50x"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_77",
+    "name": "RitualFly",
+    "url": "https://ritualfly.vercel.app/",
+    "description": "Explore RitualFly on the Ritual Testnet. Built by Dezzy.",
+    "creator": {
+      "name": "@Dezzy",
+      "inferred_creator_handle": "Dezzy",
+      "handle_verified": false,
+      "social_url": "https://x.com/Dezzy"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_78",
+    "name": "On-Chain AI Judge",
+    "url": "https://ritual-arbiter.vercel.app/",
+    "description": "Explore On-Chain AI Judge on the Ritual Testnet. Built by lambezii.",
+    "creator": {
+      "name": "@lambezii",
+      "inferred_creator_handle": "lambezii",
+      "handle_verified": false,
+      "social_url": "https://x.com/lambezii"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_79",
+    "name": "Ritual Divination",
+    "url": "https://ritual-divination.vercel.app/",
+    "description": "Explore Ritual Divination on the Ritual Testnet. Built by tembi4kinn.",
+    "creator": {
+      "name": "@tembi4kinn",
+      "inferred_creator_handle": "tembi4kinn",
+      "handle_verified": false,
+      "social_url": "https://x.com/tembi4kinn"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_80",
+    "name": "Ritual Chess",
+    "url": "https://ritchess.vercel.app/",
+    "description": "Explore Ritual Chess on the Ritual Testnet. Built by classic7045.",
+    "creator": {
+      "name": "@classic7045",
+      "inferred_creator_handle": "classic7045",
+      "handle_verified": false,
+      "social_url": "https://x.com/classic7045"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_81",
+    "name": "On-Chain Quiz",
+    "url": "https://onchain-quiz-ritual.vercel.app/",
+    "description": "Explore On-Chain Quiz on the Ritual Testnet. Built by edward_evm.",
+    "creator": {
+      "name": "@edward_evm",
+      "inferred_creator_handle": "edward_evm",
+      "handle_verified": false,
+      "social_url": "https://x.com/edward_evm"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_82",
+    "name": "Ritual Prompt Forge",
+    "url": "https://ritual-prompt-forge.vercel.app/",
+    "description": "Explore Ritual Prompt Forge on the Ritual Testnet. Built by basss_eth.",
+    "creator": {
+      "name": "@basss_eth",
+      "inferred_creator_handle": "basss_eth",
+      "handle_verified": false,
+      "social_url": "https://x.com/basss_eth"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_83",
+    "name": "Ancestra",
+    "url": "https://ancestra-dex.vercel.app/",
+    "description": "Explore Ancestra on the Ritual Testnet. Built by softieeexx.",
+    "creator": {
+      "name": "@softieeexx",
+      "inferred_creator_handle": "softieeexx",
+      "handle_verified": false,
+      "social_url": "https://x.com/softieeexx"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_84",
+    "name": "AI capsule",
+    "url": "https://vein-alpha.vercel.app/",
+    "description": "Explore AI capsule on the Ritual Testnet. Built by John.",
+    "creator": {
+      "name": "@John",
+      "inferred_creator_handle": "John",
+      "handle_verified": false,
+      "social_url": "https://x.com/John"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_85",
+    "name": "Team Save Gamifield",
+    "url": "https://tamasave.vercel.app/",
+    "description": "Explore Team Save Gamifield on the Ritual Testnet. Built by chronic_10.",
+    "creator": {
+      "name": "@chronic_10",
+      "inferred_creator_handle": "chronic_10",
+      "handle_verified": false,
+      "social_url": "https://x.com/chronic_10"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_86",
+    "name": "Ritualmon",
+    "url": "https://ritualmon.vercel.app/",
+    "description": "Explore Ritualmon on the Ritual Testnet. Built by zegnanft.",
+    "creator": {
+      "name": "@zegnanft",
+      "inferred_creator_handle": "zegnanft",
+      "handle_verified": false,
+      "social_url": "https://x.com/zegnanft"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_87",
+    "name": "Agentbounty",
+    "url": "https://agent-bounty-ruddy.vercel.app/",
+    "description": "Explore Agentbounty on the Ritual Testnet. Built by lynn01393.",
+    "creator": {
+      "name": "@lynn01393",
+      "inferred_creator_handle": "lynn01393",
+      "handle_verified": false,
+      "social_url": "https://x.com/lynn01393"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802",
+        "0x0820"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)",
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_88",
+    "name": "PalmWise",
+    "url": "https://palmwise-ai.vercel.app/",
+    "description": "Explore PalmWise on the Ritual Testnet. Built by kryptophilic.",
+    "creator": {
+      "name": "@kryptophilic",
+      "inferred_creator_handle": "kryptophilic",
+      "handle_verified": false,
+      "social_url": "https://x.com/kryptophilic"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_89",
+    "name": "Ritual Faucet",
+    "url": "https://ritualunofficialfaucet.eu.cc/",
+    "description": "Explore Ritual Faucet on the Ritual Testnet. Built by mopato11.",
+    "creator": {
+      "name": "@mopato11",
+      "inferred_creator_handle": "mopato11",
+      "handle_verified": false,
+      "social_url": "https://x.com/mopato11"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_90",
+    "name": "Ritual Multi Sender",
+    "url": "https://v0-ritualbatch.vercel.app/app/sender",
+    "description": "Explore Ritual Multi Sender on the Ritual Testnet. Built by jepannyaa_71337.",
+    "creator": {
+      "name": "@jepannyaa_71337",
+      "inferred_creator_handle": "jepannyaa_71337",
+      "handle_verified": false,
+      "social_url": "https://x.com/jepannyaa_71337"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_91",
+    "name": "Ritual Mint",
+    "url": "https://ritual-profile-mint-web3-mint-rvix.vercel.app/",
+    "description": "Explore Ritual Mint on the Ritual Testnet. Built by tanjiro66_.",
+    "creator": {
+      "name": "@tanjiro66_",
+      "inferred_creator_handle": "tanjiro66_",
+      "handle_verified": false,
+      "social_url": "https://x.com/tanjiro66_"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_92",
+    "name": "Ritual Engagement Badge",
+    "url": "https://ritual-explorer-badge.vercel.app/",
+    "description": "Explore Ritual Engagement Badge on the Ritual Testnet. Built by james557.",
+    "creator": {
+      "name": "@james557",
+      "inferred_creator_handle": "james557",
+      "handle_verified": false,
+      "social_url": "https://x.com/james557"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_93",
+    "name": "spin wheels",
+    "url": "https://spin-wheels-ritual.vercel.app/",
+    "description": "Explore spin wheels on the Ritual Testnet. Built by rakswp.",
+    "creator": {
+      "name": "@rakswp",
+      "inferred_creator_handle": "rakswp",
+      "handle_verified": false,
+      "social_url": "https://x.com/rakswp"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_94",
+    "name": "Ritual Community card",
+    "url": "https://ritual-community-card.vercel.app/",
+    "description": "Explore Ritual Community card on the Ritual Testnet. Built by alfadanil.",
+    "creator": {
+      "name": "@alfadanil",
+      "inferred_creator_handle": "alfadanil",
+      "handle_verified": false,
+      "social_url": "https://x.com/alfadanil"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_95",
+    "name": "Shrine Quiz",
+    "url": "https://shrine.qzz.io/",
+    "description": "Explore Shrine Quiz on the Ritual Testnet. Built by 0xanamul.",
+    "creator": {
+      "name": "@0xanamul",
+      "inferred_creator_handle": "0xanamul",
+      "handle_verified": false,
+      "social_url": "https://x.com/0xanamul"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_96",
+    "name": "Ritual Bubble shooter",
+    "url": "https://ritual-bubble-shooter-jt.vercel.app/",
+    "description": "Explore Ritual Bubble shooter on the Ritual Testnet. Built by jt_026.",
+    "creator": {
+      "name": "@jt_026",
+      "inferred_creator_handle": "jt_026",
+      "handle_verified": false,
+      "social_url": "https://x.com/jt_026"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_97",
+    "name": "Ritual Rent Agents",
+    "url": "https://ritty-ai.vercel.app/",
+    "description": "Explore Ritual Rent Agents on the Ritual Testnet. Built by omarnouval.",
+    "creator": {
+      "name": "@omarnouval",
+      "inferred_creator_handle": "omarnouval",
+      "handle_verified": false,
+      "social_url": "https://x.com/omarnouval"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802",
+        "0x0820"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)",
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_98",
+    "name": "Ritual Hub",
+    "url": "https://ritualdex.vercel.app/level",
+    "description": "Explore Ritual Hub on the Ritual Testnet. Built by oahid9.",
+    "creator": {
+      "name": "@oahid9",
+      "inferred_creator_handle": "oahid9",
+      "handle_verified": false,
+      "social_url": "https://x.com/oahid9"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_99",
+    "name": "LastSignal",
+    "url": "https://lastsignal.vercel.app/",
+    "description": "Explore LastSignal on the Ritual Testnet. Built by maxiq1011.",
+    "creator": {
+      "name": "@maxiq1011",
+      "inferred_creator_handle": "maxiq1011",
+      "handle_verified": false,
+      "social_url": "https://x.com/maxiq1011"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0009"
+      ],
+      "details": {
+        "0x0009": "Ed25519/DKMS Cryptography Precompile (Enables enclave-secured keys and zero-knowledge signatures)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_100",
+    "name": "Ritual Acadmy",
+    "url": "https://ritualacademy.xyz/",
+    "description": "Explore Ritual Acadmy on the Ritual Testnet. Built by officerpayne07.",
+    "creator": {
+      "name": "@officerpayne07",
+      "inferred_creator_handle": "officerpayne07",
+      "handle_verified": false,
+      "social_url": "https://x.com/officerpayne07"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_101",
+    "name": "Siggy tails",
+    "url": "https://siggy-tail.vercel.app/",
+    "description": "Explore Siggy tails on the Ritual Testnet. Built by kastew333.",
+    "creator": {
+      "name": "@kastew333",
+      "inferred_creator_handle": "kastew333",
+      "handle_verified": false,
+      "social_url": "https://x.com/kastew333"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_102",
+    "name": "Ritual Pacman",
+    "url": "https://ritual-pacman.vercel.app/",
+    "description": "Explore Ritual Pacman on the Ritual Testnet. Built by abhigupta0284.",
+    "creator": {
+      "name": "@abhigupta0284",
+      "inferred_creator_handle": "abhigupta0284",
+      "handle_verified": false,
+      "social_url": "https://x.com/abhigupta0284"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_103",
+    "name": "Quorum Work",
+    "url": "https://ritual-quorum-work.vercel.app/market",
+    "description": "Explore Quorum Work on the Ritual Testnet. Built by gengar.shadow.",
+    "creator": {
+      "name": "@gengar.shadow",
+      "inferred_creator_handle": "gengar.shadow",
+      "handle_verified": false,
+      "social_url": "https://x.com/gengar.shadow"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_104",
+    "name": "Ritual Consult",
+    "url": "https://constual.vercel.app",
+    "description": "Explore Ritual Consult on the Ritual Testnet. Built by nxrskyaa.",
+    "creator": {
+      "name": "@nxrskyaa",
+      "inferred_creator_handle": "nxrskyaa",
+      "handle_verified": false,
+      "social_url": "https://x.com/nxrskyaa"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_105",
+    "name": "Ritual NFT",
+    "url": "https://nft-fores.vercel.app/",
+    "description": "Explore Ritual NFT on the Ritual Testnet. Built by 0xarees.",
+    "creator": {
+      "name": "@0xarees",
+      "inferred_creator_handle": "0xarees",
+      "handle_verified": false,
+      "social_url": "https://x.com/0xarees"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_106",
+    "name": "Ritual Raid",
+    "url": "https://ritual-raid.vercel.app/",
+    "description": "Explore Ritual Raid on the Ritual Testnet. Built by zella.nft.",
+    "creator": {
+      "name": "@zella.nft",
+      "inferred_creator_handle": "zella.nft",
+      "handle_verified": false,
+      "social_url": "https://x.com/zella.nft"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_107",
+    "name": "Siggy Maker",
+    "url": "https://siggy-maker.vercel.app/",
+    "description": "Explore Siggy Maker on the Ritual Testnet. Built by crypto20226.",
+    "creator": {
+      "name": "@crypto20226",
+      "inferred_creator_handle": "crypto20226",
+      "handle_verified": false,
+      "social_url": "https://x.com/crypto20226"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_108",
+    "name": "Ritual Council",
+    "url": "https://ritual-council-ai.vercel.app/",
+    "description": "Explore Ritual Council on the Ritual Testnet. Built by yes2511.",
+    "creator": {
+      "name": "@yes2511",
+      "inferred_creator_handle": "yes2511",
+      "handle_verified": false,
+      "social_url": "https://x.com/yes2511"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_109",
+    "name": "Omen",
+    "url": "https://omen-ritual.vercel.app/",
+    "description": "Explore Omen on the Ritual Testnet. Built by richard096877.",
+    "creator": {
+      "name": "@richard096877",
+      "inferred_creator_handle": "richard096877",
+      "handle_verified": false,
+      "social_url": "https://x.com/richard096877"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_110",
+    "name": "Untold",
+    "url": "https://untold-badang.vercel.app/",
+    "description": "Explore Untold on the Ritual Testnet. Built by badang.",
+    "creator": {
+      "name": "@badang",
+      "inferred_creator_handle": "badang",
+      "handle_verified": false,
+      "social_url": "https://x.com/badang"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_111",
+    "name": "Ritual Quest",
+    "url": "https://ritual-quest-game.vercel.app/",
+    "description": "Explore Ritual Quest on the Ritual Testnet. Built by purplelover5.",
+    "creator": {
+      "name": "@purplelover5",
+      "inferred_creator_handle": "purplelover5",
+      "handle_verified": false,
+      "social_url": "https://x.com/purplelover5"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_112",
+    "name": "Agentforge",
+    "url": "https://agentforge-ritual.pages.dev",
+    "description": "Explore Agentforge on the Ritual Testnet. Built by rivale.eth.",
+    "creator": {
+      "name": "@rivale.eth",
+      "inferred_creator_handle": "rivale.eth",
+      "handle_verified": false,
+      "social_url": "https://x.com/rivale.eth"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0820"
+      ],
+      "details": {
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_113",
+    "name": "Ritual Memory Quest",
+    "url": "https://ritual-memory-quest.lovable.app",
+    "description": "Explore Ritual Memory Quest on the Ritual Testnet. Built by hala.madriid.",
+    "creator": {
+      "name": "@hala.madriid",
+      "inferred_creator_handle": "hala.madriid",
+      "handle_verified": false,
+      "social_url": "https://x.com/hala.madriid"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_114",
+    "name": "Ritual Chain Wallet Monitor",
+    "url": "https://ritbot.vercel.app/",
+    "description": "Explore Ritual Chain Wallet Monitor on the Ritual Testnet. Built by crypticream_73120.",
+    "creator": {
+      "name": "@crypticream_73120",
+      "inferred_creator_handle": "crypticream_73120",
+      "handle_verified": false,
+      "social_url": "https://x.com/crypticream_73120"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802",
+        "0x0801",
+        "0x0820"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)",
+        "0x0801": "HTTP Precompile (Fetches external web API data directly to smart contracts)",
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_115",
+    "name": "Ritual Runner",
+    "url": "https://ritual-runner-gjim2571s-projects.vercel.app/",
+    "description": "Explore Ritual Runner on the Ritual Testnet. Built by martin66955.",
+    "creator": {
+      "name": "@martin66955",
+      "inferred_creator_handle": "martin66955",
+      "handle_verified": false,
+      "social_url": "https://x.com/martin66955"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_116",
+    "name": "Ritual AGent Craft",
+    "url": "https://ritual-agent-craft-mg.vercel.app/",
+    "description": "Explore Ritual AGent Craft on the Ritual Testnet. Built by _._mingyu_._.",
+    "creator": {
+      "name": "@_._mingyu_._",
+      "inferred_creator_handle": "_._mingyu_._",
+      "handle_verified": false,
+      "social_url": "https://x.com/_._mingyu_._"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0820"
+      ],
+      "details": {
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_117",
+    "name": "Ritual Oripa",
+    "url": "https://ritualoripa.vercel.app/home",
+    "description": "Explore Ritual Oripa on the Ritual Testnet. Built by aetherion.eth.",
+    "creator": {
+      "name": "@aetherion.eth",
+      "inferred_creator_handle": "aetherion.eth",
+      "handle_verified": false,
+      "social_url": "https://x.com/aetherion.eth"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_118",
+    "name": "Ritual Predicition Markets",
+    "url": "https://marvelous-liger-ad1817.netlify.app/",
+    "description": "Explore Ritual Predicition Markets on the Ritual Testnet. Built by hally7406_.",
+    "creator": {
+      "name": "@hally7406_",
+      "inferred_creator_handle": "hally7406_",
+      "handle_verified": false,
+      "social_url": "https://x.com/hally7406_"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_119",
+    "name": "Siggy multi dimensional cat",
+    "url": "https://siggy.decka.my.id/deploy/sovereign",
+    "description": "Explore Siggy multi dimensional cat on the Ritual Testnet. Built by decka_tan.",
+    "creator": {
+      "name": "@decka_tan",
+      "inferred_creator_handle": "decka_tan",
+      "handle_verified": false,
+      "social_url": "https://x.com/decka_tan"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_120",
+    "name": "Ritual Audit",
+    "url": "https://ritual-chain-workshop-tau.vercel.app/",
+    "description": "Explore Ritual Audit on the Ritual Testnet. Built by Jsp.",
+    "creator": {
+      "name": "@Jsp",
+      "inferred_creator_handle": "Jsp",
+      "handle_verified": false,
+      "social_url": "https://x.com/Jsp"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_121",
+    "name": "Ritual soveregin agent",
+    "url": "https://sovereign-deployer.vercel.app/",
+    "description": "Explore Ritual soveregin agent on the Ritual Testnet. Built by 0xfrio.",
+    "creator": {
+      "name": "@0xfrio",
+      "inferred_creator_handle": "0xfrio",
+      "handle_verified": false,
+      "social_url": "https://x.com/0xfrio"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0820"
+      ],
+      "details": {
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_122",
+    "name": "Ai Bounty Judge",
+    "url": "https://ritual-ai-bounty-judge.vercel.app",
+    "description": "Explore Ai Bounty Judge on the Ritual Testnet. Built by Kency17.",
+    "creator": {
+      "name": "@Kency17",
+      "inferred_creator_handle": "Kency17",
+      "handle_verified": false,
+      "social_url": "https://x.com/Kency17"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_123",
+    "name": "Ritual Swap",
+    "url": "https://ritual-swap-dapp.vercel.app/",
+    "description": "Explore Ritual Swap on the Ritual Testnet. Built by melophile0646.",
+    "creator": {
+      "name": "@melophile0646",
+      "inferred_creator_handle": "melophile0646",
+      "handle_verified": false,
+      "social_url": "https://x.com/melophile0646"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_124",
+    "name": "Agent Arcana",
+    "url": "https://agentarcana-lyart.vercel.app/",
+    "description": "Explore Agent Arcana on the Ritual Testnet. Built by katty_2207.",
+    "creator": {
+      "name": "@katty_2207",
+      "inferred_creator_handle": "katty_2207",
+      "handle_verified": false,
+      "social_url": "https://x.com/katty_2207"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0818",
+        "0x0820"
+      ],
+      "details": {
+        "0x0818": "Multimodal Precompile (Generates images/NFT media dynamically on-chain)",
+        "0x0820": "Agent Lifecycle Precompile (Spawns and manages autonomous TEE-based agents)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_125",
+    "name": "RitualLend",
+    "url": "https://rituallend.vercel.app/",
+    "description": "Explore RitualLend on the Ritual Testnet. Built by cryptier0.",
+    "creator": {
+      "name": "@cryptier0",
+      "inferred_creator_handle": "cryptier0",
+      "handle_verified": false,
+      "social_url": "https://x.com/cryptier0"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_126",
+    "name": "Ritualknot",
+    "url": "https://ritualknot.tech/",
+    "description": "Explore Ritualknot on the Ritual Testnet. Built by usman_nazir07.",
+    "creator": {
+      "name": "@usman_nazir07",
+      "inferred_creator_handle": "usman_nazir07",
+      "handle_verified": false,
+      "social_url": "https://x.com/usman_nazir07"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_127",
+    "name": "Onchain Translator",
+    "url": "https://ritual-onchain-translator.vercel.app/",
+    "description": "Explore Onchain Translator on the Ritual Testnet. Built by y0ru.ir.",
+    "creator": {
+      "name": "@y0ru.ir",
+      "inferred_creator_handle": "y0ru.ir",
+      "handle_verified": false,
+      "social_url": "https://x.com/y0ru.ir"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_128",
+    "name": "Truth or Cap",
+    "url": "https://ritual-truth-cap.vercel.app/",
+    "description": "Explore Truth or Cap on the Ritual Testnet. Built by damic9.",
+    "creator": {
+      "name": "@damic9",
+      "inferred_creator_handle": "damic9",
+      "handle_verified": false,
+      "social_url": "https://x.com/damic9"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_129",
+    "name": "Ritual Horoscope",
+    "url": "https://ritualhoroscope.vercel.app/",
+    "description": "Explore Ritual Horoscope on the Ritual Testnet. Built by loca333.",
+    "creator": {
+      "name": "@loca333",
+      "inferred_creator_handle": "loca333",
+      "handle_verified": false,
+      "social_url": "https://x.com/loca333"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_130",
+    "name": "Ritual Genesis Gallery",
+    "url": "https://genesis-ritual.vercel.app/",
+    "description": "Explore Ritual Genesis Gallery on the Ritual Testnet. Built by 0xkrtka.",
+    "creator": {
+      "name": "@0xkrtka",
+      "inferred_creator_handle": "0xkrtka",
+      "handle_verified": false,
+      "social_url": "https://x.com/0xkrtka"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_131",
+    "name": "Ritual TaptoMine",
+    "url": "https://ritual-tap-to-mine.vercel.app/",
+    "description": "Explore Ritual TaptoMine on the Ritual Testnet. Built by xmzcul.",
+    "creator": {
+      "name": "@xmzcul",
+      "inferred_creator_handle": "xmzcul",
+      "handle_verified": false,
+      "social_url": "https://x.com/xmzcul"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_132",
+    "name": "Ritual News Terminal",
+    "url": "https://ritualnews.vercel.app/",
+    "description": "Explore Ritual News Terminal on the Ritual Testnet. Built by Rajlol.",
+    "creator": {
+      "name": "@Rajlol",
+      "inferred_creator_handle": "Rajlol",
+      "handle_verified": false,
+      "social_url": "https://x.com/Rajlol"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0801"
+      ],
+      "details": {
+        "0x0801": "HTTP Precompile (Fetches external web API data directly to smart contracts)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_133",
+    "name": "Ritual Id",
+    "url": "https://ritualid.com/",
+    "description": "Explore Ritual Id on the Ritual Testnet. Built by doresa0.",
+    "creator": {
+      "name": "@doresa0",
+      "inferred_creator_handle": "doresa0",
+      "handle_verified": false,
+      "social_url": "https://x.com/doresa0"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "EVM Core"
+      ],
+      "details": {
+        "EVM Core": "Standard EVM Layer (Integrates standard smart contract execution without advanced AI precompiles)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  },
+  {
+    "id": "dapp_134",
+    "name": "Ritual vs Chain",
+    "url": "https://my-project-three-blush-99.vercel.app/",
+    "description": "Explore Ritual vs Chain on the Ritual Testnet. Built by jimgreen.btc.",
+    "creator": {
+      "name": "@jimgreen.btc",
+      "inferred_creator_handle": "jimgreen.btc",
+      "handle_verified": false,
+      "social_url": "https://x.com/jimgreen.btc"
+    },
+    "ritual_stack": {
+      "precompiles": [
+        "0x0802"
+      ],
+      "details": {
+        "0x0802": "LLM Inference Precompile (Generates text or analytical responses on-chain)"
+      }
+    },
+    "needs_review": false,
+    "active": true
+  }
+]
