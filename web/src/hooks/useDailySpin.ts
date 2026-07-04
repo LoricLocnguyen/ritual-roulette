@@ -104,18 +104,9 @@ export function useDailySpin() {
 
   // Check if user is eligible to spin today
   const canSpin = useCallback((): boolean => {
-    if (!lastSpinTime) return true;
-
-    const now = new Date();
-    const lastSpinDate = new Date(lastSpinTime);
-
-    // Reset daily at local 00:00 midnight
-    return (
-      now.getFullYear() !== lastSpinDate.getFullYear() ||
-      now.getMonth() !== lastSpinDate.getMonth() ||
-      now.getDate() !== lastSpinDate.getDate()
-    );
-  }, [lastSpinTime]);
+    // Đã bỏ giới hạn 1 lần/ngày. Giờ quay tẹt ga!
+    return true;
+  }, []);
 
   const activeDApps = dappsData.filter((d) => d.active);
 

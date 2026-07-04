@@ -22,7 +22,7 @@ export function DAppAnalysisCard({ dapp, onSaveToCollection, isSaved = false }: 
       <div className="w-full h-40 sm:h-56 rounded-xl overflow-hidden mb-5 border border-white/5 relative group bg-zinc-900">
         <div className="absolute inset-0 bg-indigo-500/20 mix-blend-overlay z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"></div>
         <img 
-          src={`https://image.thum.io/get/width/1200/crop/675/noanimate/${dapp.url}`}
+          src={`https://s.wordpress.com/mshots/v1/${encodeURIComponent(dapp.url)}?w=1200`}
           onError={(e) => {
             // Fallback nếu API tải chậm hoặc lỗi
             (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1200&h=675&auto=format&fit=crop";
