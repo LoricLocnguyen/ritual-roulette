@@ -1,6 +1,6 @@
-import { createConfig, http } from "wagmi";
+import { createConfig, http, cookieStorage, createStorage } from "wagmi";
 import { defineChain } from "viem";
-import { injected, metaMask, walletConnect } from "wagmi/connectors";
+import { injected, walletConnect } from "wagmi/connectors";
 import { ritualChainId, ritualRpcUrl } from "@/config/contract";
 
 /**
@@ -21,16 +21,19 @@ export const ritualChain = defineChain({
 
 const walletConnectProjectId = process.env.NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID?.trim();
 
-// Injected + MetaMask always work for a workshop. WalletConnect is only added
-// when a project id is provided, since it throws without one.
 const connectors = [
   injected({ shimDisconnect: true }),
-  ...(walletConnectProjectId ? [walletConnect({ projectId: walletConnectProjectId })] : []),
+  ...(walletConnectProjectId
+    ? [walletConnect({ projectId: walletConnectProjectId })]
+    : []),
 ];
 
 export const config = createConfig({
   chains: [ritualChain],
   connectors,
+  storage: createStorage({
+    storage: cookieStorage,
+  }),
   ssr: true,
   transports: {
     [ritualChain.id]: http(ritualRpcUrl),

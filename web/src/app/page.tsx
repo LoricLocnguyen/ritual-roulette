@@ -17,6 +17,8 @@ import { useDailySpin, DApp } from "@/hooks/useDailySpin";
 import { SpinWheel } from "@/components/SpinWheel";
 import { DAppAnalysisCard } from "@/components/DAppAnalysisCard";
 import { CollectionPanel } from "@/components/CollectionPanel";
+import { AgentBotPanel } from "@/components/AgentBotPanel";
+import { useSpinTransaction } from "@/hooks/useSpinTransaction";
 
 type ActiveTab = "spin" | "collection" | "bounty";
 
@@ -25,6 +27,11 @@ export default function Home() {
   const [selectedId, setSelectedId] = useState<bigint | null>(null);
   const [lastSpunDApp, setLastSpunDApp] = useState<DApp | null>(null);
   const [prePickedWinner, setPrePickedWinner] = useState<DApp | null>(null);
+  const [showBot, setShowBot] = useState(false);
+  const [botDappName, setBotDappName] = useState("");
+
+  // Spin transaction hook (wallet sign → on-chain → AI bot)
+  const spinTx = useSpinTransaction();
 
   // Wagmi wallet hooks
   const { address, isConnected } = useAccount();
@@ -71,11 +78,15 @@ export default function Home() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [canSpin, activeDApps.length]);
 
-  // Spin complete handler — wheel passes its visual winner, we record that exact dApp
+  // Spin complete handler — wheel animation done → trigger wallet tx → show bot
   const handleSpinComplete = (dapp: DApp) => {
     const spunResult = executeSpin(dapp);
     setLastSpunDApp(spunResult);
-    setPrePickedWinner(null); // clear until next eligible day
+    setPrePickedWinner(null);
+    // Fire the on-chain transaction + open bot panel
+    setBotDappName(dapp.name);
+    setShowBot(true);
+    spinTx.run(dapp.name);
   };
 
   // Find the details of the most recently spun dApp from history to show on mount if any
@@ -129,7 +140,7 @@ export default function Home() {
                     : "text-zinc-400 hover:text-zinc-200"
                 }`}
               >
-                🏆 Vault & Collection
+                🏆 Vault &amp; Collection
               </button>
               <button
                 onClick={() => setActiveTab("bounty")}
@@ -362,6 +373,18 @@ export default function Home() {
           )}
         </div>
       </footer>
+
+      {/* Agent Bot Panel appears after spin */}
+      {showBot && (
+        <AgentBotPanel
+          dappName={botDappName}
+          status={spinTx.status}
+          txHash={spinTx.txHash}
+          aiMessage={spinTx.aiMessage}
+          error={spinTx.error}
+          onClose={() => setShowBot(false)}
+        />
+      )}
     </div>
   );
 }

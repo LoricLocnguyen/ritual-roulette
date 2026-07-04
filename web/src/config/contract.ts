@@ -31,3 +31,10 @@ export const ritualChainId = Number(
 
 export const ritualRpcUrl =
   process.env.NEXT_PUBLIC_RITUAL_RPC_URL ?? "https://rpc.ritualfoundation.org";
+
+/** RitualRoulette spin contract address (set NEXT_PUBLIC_ROULETTE_CONTRACT_ADDRESS in .env.local) */
+const rawRouletteAddr = process.env.NEXT_PUBLIC_ROULETTE_CONTRACT_ADDRESS?.trim();
+export const rouletteContractAddress: Address | undefined =
+  rawRouletteAddr && /^0x[0-9a-fA-F]{40}$/.test(rawRouletteAddr)
+    ? (rawRouletteAddr as Address)
+    : undefined;

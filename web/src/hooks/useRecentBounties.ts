@@ -11,9 +11,22 @@ const EMPTY: string[] = [];
 let cache: { raw: string | null; value: string[] } = { raw: null, value: EMPTY };
 const listeners = new Set<() => void>();
 
+function safeGetItem(key: string): string | null {
+  try {
+    return localStorage.getItem(key);
+  } catch {
+    return null;
+  }
+}
+
 function readSnapshot(): string[] {
   if (typeof window === "undefined") return EMPTY;
-  const raw = localStorage.getItem(STORAGE_KEY);
+  let raw: string | null = null;
+  try {
+    raw = safeGetItem(STORAGE_KEY);
+  } catch {
+    return EMPTY;
+  }
   if (raw === cache.raw) return cache.value;
   let value: string[] = EMPTY;
   try {
@@ -40,9 +53,11 @@ function subscribe(cb: () => void): () => void {
 
 function persist(next: string[]) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    if (typeof window !== "undefined") {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    }
   } catch {
-    /* ignore quota / private mode */
+    /* ignore quota / private mode / SecurityError */
   }
   listeners.forEach((l) => l());
 }

@@ -59,3 +59,6 @@ Write a short, engaging congratulatory tweet or sentence matching the theme of t
     { storageType: "", path: "", secretsName: "" }, // convo history
   ]);
 }
+
+export type JudgeSubmission = any;
+export function buildJudgeAllLlmInput(args: any): any { return "0x"; }
