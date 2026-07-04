@@ -56,7 +56,7 @@ Write a short, engaging congratulatory tweet or sentence matching the theme of t
     0n,                                            // prediction
     "",                                            // service_tier
     false,                                         // stream_options
-    { storageType: "", path: "", secretsName: "" }, // convo history
+    ["", "", ""],                                  // convo history
   ]);
 }
 
